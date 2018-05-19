@@ -1,0 +1,96 @@
+.wrapper{
+
+background:#eee;
+color:white;
+margin:0 auto 0 auto;
+}
+
+.heading{
+height:50px;
+background:black;
+padding:10px;
+text-align:center;
+}
+
+.subhead{
+height:30px;
+padding:10px;
+background:red;
+text-align:center;
+}
+
+#content{
+min-height:440px;
+background:#ddd;
+color:black;
+}
+
+.pary{
+height:20px;
+background:blue;
+
+}
+
+
+.footer{
+clear:both;
+background:black;
+height:60px;
+color:white;
+padding:10px;}
+
+.AddtoList{
+background-color: blue;
+    width:200px;
+    border: black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 100px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+#contact_form{
+   text-transform: uppercase;
+   text-decoration: bold;
+   color:blue;
+}
+
+#create{
+background-color: purple;
+    width:250px;
+    border: black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 30px;
+    margin-top:30px;
+    cursor: pointer;
+    text-transform: uppercase;}
+
+
+.head{
+text-transform: uppercase;
+text-decoration: bold;
+color:black;
+font-size:1.875em;
+text-align:left;
+}
+
+.sub{
+text-align:left;
+color:green;
+}   
+
+
+
+
+
+
