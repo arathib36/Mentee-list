@@ -2,7 +2,7 @@
 -------------------------------------------------------------------------------------------------------------------------------
 
 
-##Delta web dev Task1
+## Delta web dev Task1
 
 
-###Deltatask1.html is the main file
+### Deltatask1.html is the main file
